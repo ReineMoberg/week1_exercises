@@ -10,12 +10,12 @@ public class App
 
         ///Exercise 1
 
-        System.out.println("Hello" + "\n" + "Reine!");
+        /*System.out.println("Hello" + "\n" + "Reine!");*/
 
 
         //Exercise 2
 
-        /*int year = 0;
+        int year = 0;
         System.out.println("Enter a year: ");
         Scanner sc = new Scanner(System.in);
         year = sc.nextInt();
@@ -36,7 +36,7 @@ public class App
             System.out.println(year + " is a leap year.");
         }
         else
-            System.out.println(year + " is not a leap year.");*/
+            System.out.println(year + " is not a leap year.");
 
 
         //Exercise 3

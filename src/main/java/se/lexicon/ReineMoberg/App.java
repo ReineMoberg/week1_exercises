@@ -55,7 +55,7 @@ public class App
 
         //Exercise 4
 
-        int number1 = 0;
+        /*int number1 = 0;
         int number2 = 0;
         int number3 = 0;
         System.out.println("Enter first number: ");
@@ -66,15 +66,15 @@ public class App
         System.out.println("Enter third number: ");
         number3 = sc.nextInt();
         double averageResult = ((double)(number1+number2+number3) / 3);
-        System.out.println("Average is: " + averageResult);
+        System.out.println("Average is: " + averageResult);*/
 
 
         //Exercise 5
 
-        /*Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         System.out.println("Enter your name: ");
         String name = sc.nextLine();
-        System.out.println("Hello " + name);*/
+        System.out.println("Hello " + name);
 
 
         //Exercise 6

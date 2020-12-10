@@ -15,7 +15,7 @@ public class App
 
         //Exercise 2
 
-        int year = 0;
+        /*int year = 0;
         System.out.println("Enter a year: ");
         Scanner sc = new Scanner(System.in);
         year = sc.nextInt();
@@ -36,12 +36,12 @@ public class App
             System.out.println(year + " is a leap year.");
         }
         else
-            System.out.println(year + " is not a leap year.");
+            System.out.println(year + " is not a leap year.");*/
 
 
         //Exercise 3
 
-        /*int number1 = 55;
+        int number1 = 55;
         int number2 = 12;
         long addResult = number1 + number2;                     //Add
         long subResult = number1 - number2;                     //Subtract
@@ -50,7 +50,7 @@ public class App
         System.out.println("Addition: " + addResult);
         System.out.println("Subtraction: " + subResult);
         System.out.println("Multiplication: " + mulResult);
-        System.out.println("Division " + divResult);*/
+        System.out.println("Division " + divResult);
 
 
         //Exercise 4

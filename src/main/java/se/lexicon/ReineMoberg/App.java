@@ -79,7 +79,7 @@ public class App
 
         //Exercise 6
 
-        Scanner sc = new Scanner(System.in);
+        /*Scanner sc = new Scanner(System.in);
         System.out.println("Enter first number: ");
         int number1 = sc.nextInt();                     //read first input from user
         System.out.println("Enter second number: ");
@@ -91,18 +91,18 @@ public class App
         System.out.println("Sum: " + sumResult);            //Print result
         System.out.println("Subtraction: " + subResult);
         System.out.println("Multiplication: " + mulResult);
-        System.out.println("Division " + divResult);
+        System.out.println("Division " + divResult);*/
 
 
         //Exercise 7
 
-        /*Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         System.out.println("Enter seconds: ");
         int seconds = sc.nextInt();
         int secs = seconds % 60;
         int hours = seconds / 3600;
         int minutes = (seconds % 3600) / 60;
-        System.out.println(hours + ":" + minutes + ":" + secs);*/
+        System.out.println(hours + ":" + minutes + ":" + secs);
 
 
         //Exercise 8

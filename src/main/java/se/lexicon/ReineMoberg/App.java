@@ -96,18 +96,18 @@ public class App
 
         //Exercise 7
 
-        Scanner sc = new Scanner(System.in);
+        /*Scanner sc = new Scanner(System.in);
         System.out.println("Enter seconds: ");
         int seconds = sc.nextInt();
         int secs = seconds % 60;
         int hours = seconds / 3600;
         int minutes = (seconds % 3600) / 60;
-        System.out.println(hours + ":" + minutes + ":" + secs);
+        System.out.println(hours + ":" + minutes + ":" + secs);*/
 
 
         //Exercise 8
 
-        /*Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         double randomValue = 0;
         int roundedRandom = 0;
         int guess = 0;
@@ -143,7 +143,7 @@ public class App
                 }
             }
 
-        }*/
+        }
 
 
 

@@ -41,7 +41,7 @@ public class App
 
         //Exercise 3
 
-        int number1 = 55;
+        /*int number1 = 55;
         int number2 = 12;
         long addResult = number1 + number2;                     //Add
         long subResult = number1 - number2;                     //Subtract
@@ -50,12 +50,12 @@ public class App
         System.out.println("Addition: " + addResult);
         System.out.println("Subtraction: " + subResult);
         System.out.println("Multiplication: " + mulResult);
-        System.out.println("Division " + divResult);
+        System.out.println("Division " + divResult);*/
 
 
         //Exercise 4
 
-        /*int number1 = 0;
+        int number1 = 0;
         int number2 = 0;
         int number3 = 0;
         System.out.println("Enter first number: ");
@@ -66,7 +66,7 @@ public class App
         System.out.println("Enter third number: ");
         number3 = sc.nextInt();
         double averageResult = ((double)(number1+number2+number3) / 3);
-        System.out.println("Average is: " + averageResult);*/
+        System.out.println("Average is: " + averageResult);
 
 
         //Exercise 5

@@ -71,15 +71,15 @@ public class App
 
         //Exercise 5
 
-        Scanner sc = new Scanner(System.in);
+        /*Scanner sc = new Scanner(System.in);
         System.out.println("Enter your name: ");
         String name = sc.nextLine();
-        System.out.println("Hello " + name);
+        System.out.println("Hello " + name);*/
 
 
         //Exercise 6
 
-        /*Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         System.out.println("Enter first number: ");
         int number1 = sc.nextInt();                     //read first input from user
         System.out.println("Enter second number: ");
@@ -91,7 +91,7 @@ public class App
         System.out.println("Sum: " + sumResult);            //Print result
         System.out.println("Subtraction: " + subResult);
         System.out.println("Multiplication: " + mulResult);
-        System.out.println("Division " + divResult);*/
+        System.out.println("Division " + divResult);
 
 
         //Exercise 7
